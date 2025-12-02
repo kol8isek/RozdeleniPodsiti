@@ -4,11 +4,12 @@ Počet podsítí: [číslo -> např. 5] z toho spojovačky [číslo -> např. 2]
 {Tlačítko} ["Vygenerovat"]
 
 Vygeneruje se tohle po tlačítku vygenerovat ->
-	Počet zařízení:															síť 	maska	 První IP
+	Počet zařízení:																													síť 	maska	 První IP
 ( Počet sítí kolik bylo zadáno)
 Síť 1: textField (Program vygeneruje automaticky čísla, uživatel to může upravit + když to nefunguje tak to program nahlásí)		[IP adresa + maska + první IP] -> {label}
 Síť 2: textField
 Síť 3: textField
 Síť 4: Automaticky 2
 Síť 5: Automaticky 2
+
 
