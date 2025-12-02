@@ -1,4 +1,4 @@
-DU - Rozdelenítě do podsítí
+DU - Rozdelení sítě do podsítí
 síť: [IP adresa + maska] {TextField}
 Počet podsítí: [číslo -> např. 5] z toho spojovačky [číslo -> např. 2] (spojovačka = dvě zařízení mezi kterými nemůže být nic jinýho)
 {Tlačítko} ["Vygenerovat"]
